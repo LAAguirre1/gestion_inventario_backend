@@ -20,7 +20,7 @@ class Settings(BaseSettings):
     backend_cors_origins: list[str] = [
         "http://localhost",
         "http://localhost:8080",
-        "http://localhost:54642",
+        "http://localhost:53115",
     ]
 
 
